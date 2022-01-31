@@ -1,6 +1,5 @@
-package BakJunExercise.No1;
+package BakJunExercise.LvStage.Lv2;
 import java.util.*;
-import java.io.*;
 
 public class No10926 {
     public static void main(String[] args) {

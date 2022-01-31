@@ -1,4 +1,4 @@
-package BakJunExercise.No1;
+package BakJunExercise.LvStage.Lv2;
 
 import java.util.Scanner;
 
